@@ -1,0 +1,1110 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "666ed2c9c32893095c876e1a0946451dc51a47a3",
+   "pkgpath": "bin/_virtual/ReactPropTypesSecret.js",
+   "size": 158,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/ReactPropTypesSecret.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d81c0ab499ba010cf5d67470531b98fa147434b1",
+   "pkgpath": "bin/_virtual/_commonjsHelpers.js",
+   "size": 515,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/_commonjsHelpers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "06ce115e0c081146d04e17af07d10acc1b1b9581",
+   "pkgpath": "bin/_virtual/checkPropTypes.js",
+   "size": 136,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/checkPropTypes.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7c7ee5920431022779141448906b40427f2f10bc",
+   "pkgpath": "bin/_virtual/index.js",
+   "size": 122,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "850b3e62e4eadbd4f94d7604946c447afa19fd70",
+   "pkgpath": "bin/_virtual/index2.js",
+   "size": 100,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/index2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1212b7d4049b6414435db2cb5f6647e7bf967ce3",
+   "pkgpath": "bin/_virtual/index3.js",
+   "size": 112,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/index3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3d3ba35bd86f1a7d0f36534812f92a665150c346",
+   "pkgpath": "bin/_virtual/react-reconciler.development.js",
+   "size": 182,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/react-reconciler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d623affa0a6d5c4169840ee1f26b8e5310f4bcef",
+   "pkgpath": "bin/_virtual/react-reconciler.production.min.js",
+   "size": 191,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/react-reconciler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4be3db615df8514b1465c4f158b38109dee312b9",
+   "pkgpath": "bin/_virtual/react.development.js",
+   "size": 140,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/react.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6639d11ace3c594f06735870e42d29c95ee14343",
+   "pkgpath": "bin/_virtual/react.production.min.js",
+   "size": 149,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/react.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ed9be4fefd7e364dd0a81ea0c411beb52008e8de",
+   "pkgpath": "bin/_virtual/scheduler-tracing.development.js",
+   "size": 178,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/scheduler-tracing.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8c1d5d6719763b185c923d83f09f1c80c053085",
+   "pkgpath": "bin/_virtual/scheduler-tracing.production.min.js",
+   "size": 187,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/scheduler-tracing.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "05d30fd34911f2f5d004690c442c3ebcaaf86d8e",
+   "pkgpath": "bin/_virtual/scheduler.development.js",
+   "size": 156,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/scheduler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba283f84f6c8943ec6fd060413d5c80863128abc",
+   "pkgpath": "bin/_virtual/scheduler.production.min.js",
+   "size": 165,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/scheduler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8054830afc01573469e4fc6c59647b65510ce003",
+   "pkgpath": "bin/_virtual/tracing.js",
+   "size": 110,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/_virtual/tracing.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9b3b9bf7aaa41ad178f5c1db28d09b7cfe724299",
+   "pkgpath": "bin/index.js",
+   "size": 49,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "85bdd186a07c03de1eed6cdb880c9a0200e7bbe0",
+   "pkgpath": "bin/node_modules/magic-script-components/configuration.js",
+   "size": 364,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/configuration.js"
+  },
+  {
+   "compression": 8,
+   "hash": "071610cb2e75e95c428adb4bd058b5313c7874c6",
+   "pkgpath": "bin/node_modules/magic-script-components/core/native-factory.js",
+   "size": 479,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/core/native-factory.js"
+  },
+  {
+   "compression": 8,
+   "hash": "62ac0831f73fc18e42bff74579a4078352972909",
+   "pkgpath": "bin/node_modules/magic-script-components/index.js",
+   "size": 419,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4c2b05482c3e4272b31b130c8ca7a43752136e8c",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/component-mapping.js",
+   "size": 4795,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/component-mapping.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ce17db492a5ec3eb5b53d4e5cde83ffc1aec2be3",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/app-prism-controller.js",
+   "size": 1646,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/app-prism-controller.js"
+  },
+  {
+   "compression": 8,
+   "hash": "bb4453994a6bf26f685a1b684f805bb0e8e3da45",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/builders/controller-builder.js",
+   "size": 3167,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/builders/controller-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5cda0b0595e4a8eb7cab36ae2ea2e368fc4e4bc8",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/mxs-prism-controller.js",
+   "size": 2598,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/controllers/mxs-prism-controller.js"
+  },
+  {
+   "compression": 8,
+   "hash": "80623714bc8bfdbac7a3e37bc7c374ba8f36c953",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/audio-builder.js",
+   "size": 10241,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/audio-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9d406a99b8fc547115ca2041bedcac478f06dec1",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/button-builder.js",
+   "size": 2104,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/button-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a2af9083bd96edfb32a75f35acdfc3069bbaecd0",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/circle-confirmation-builder.js",
+   "size": 1331,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/circle-confirmation-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1910742f5031852a2ef5ffcfd91884f0fa93b5a1",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/color-picker-builder.js",
+   "size": 1474,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/color-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "43d4dd6738906236c4b8dc1ad2b7b512497715a4",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/date-picker-builder.js",
+   "size": 3162,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/date-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "720ef3aa7bb823affddc07176c7872183bc7450e",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dialog-builder.js",
+   "size": 2509,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dialog-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5296dffd78bde0238e900dca3539e467735a5b16",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dropdown-list-builder.js",
+   "size": 3181,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dropdown-list-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7a76aae2672fba5765fd69084b71ae607834f80d",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dropdown-list-item-builder.js",
+   "size": 2727,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/dropdown-list-item-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5ffea450dbf620d3a9db2557ad2aea1e24d31d84",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/element-builder.js",
+   "size": 3109,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/element-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f58b89b34d0a4fcb4b839e0aeb83880112c76a28",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/grid-layout-builder.js",
+   "size": 834,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/grid-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "aa775e7fdf7918c01bd625021e225c6f79e49086",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/group-builder.js",
+   "size": 435,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/group-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "294a2aab30e346c2d179b11f14e0e0bcc87f975e",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/image-builder.js",
+   "size": 3743,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/image-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ce5b02cad0739fadd9882ed73f460ebc927f3bdf",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/layout-builder.js",
+   "size": 1301,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "bacb91270fc12f416d98f7a764fdf7e62e397b9f",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/linear-layout-builder.js",
+   "size": 793,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/linear-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "61126ee5cfc6972c55f91acb54f5aa6cf9bcd614",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/list-view-builder.js",
+   "size": 4937,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/list-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b3666d39c2534271f5aae9bb663034ebdc0bcad1",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/list-view-item-builder.js",
+   "size": 1565,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/list-view-item-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "79faef31e1acfc4d7b005ea89f8943b9387075e3",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/loading-spinner-builder.js",
+   "size": 2179,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/loading-spinner-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "bb15bc5c405356410be3e26253a03366cfdb94aa",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/model-builder.js",
+   "size": 4310,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/model-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "12e0b0f37fc78ba842750c1131fc535cc6a70bcd",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/page-view-builder.js",
+   "size": 3518,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/page-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5f60035e3e364a77bad8e979d1c207e0e7dcbe85",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/panel-builder.js",
+   "size": 4130,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/panel-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "aad9f4d79d7de81a8510d1bdf40e797294eb0889",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/portal-icon-builder.js",
+   "size": 3020,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/portal-icon-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8f49ded9b191013b4be58259f9c666d1acd62d3",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/positional-layout-builder.js",
+   "size": 1241,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/positional-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "168a84aca3aaf8a9f0ddc26e8b0fafed43549ee5",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/progress-bar-builder.js",
+   "size": 2114,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/progress-bar-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f651903f1ecbfee4a153b4cdabeb57cee162f9c2",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/quad-node-builder.js",
+   "size": 3288,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/quad-node-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "622584aff52f6f96b4cdee6f8a59f8eb91f22d7f",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/rect-layout-builder.js",
+   "size": 960,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/rect-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e9c9c039b42b7884a078e59276dd29edb5eea45e",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/render-node-builder.js",
+   "size": 3368,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/render-node-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "bf6bd01300df87626876d6eceed512b115bfd49d",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/scroll-bar-builder.js",
+   "size": 2089,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/scroll-bar-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "663dbd93cd704c5915af27b38ba82b9223f0bec1",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/scroll-view-builder.js",
+   "size": 2491,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/scroll-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d28be5382feeb23603c7dd250106f7e4d736e7e6",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/slider-builder.js",
+   "size": 1747,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/slider-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0d965ea88fc90ad0a84d890f2dd5852da67cf011",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/tab-builder.js",
+   "size": 1857,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/tab-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "029f95edde2af300650a69dd61abd6533d0366b8",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-builder.js",
+   "size": 4417,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b1b12cbbfb0d06390625782d419bd5e58de4d9f9",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-container-builder.js",
+   "size": 1684,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-container-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7cd9946a85bd48c98ebd009419cb67e0ea2c0745",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-edit-builder.js",
+   "size": 7136,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/text-edit-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "db39149137c8c7fa87672d97892330ba621e398a",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/time-picker-builder.js",
+   "size": 2831,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/time-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "df2b674666e8d252d4b4ad84bd334394e2c7d205",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/toggle-builder.js",
+   "size": 2278,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/toggle-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9fefbe69363eb3e7367d42485f1b310f14746485",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/toggle-group-builder.js",
+   "size": 1518,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/toggle-group-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "19911ad17c78a2d98b84fa6796aa5828be14e413",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/transform-node-builder.js",
+   "size": 3502,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/transform-node-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5734de4d393d81ce6cbc6bf5c6bb4c7e9ade3dbb",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/ui-node-builder.js",
+   "size": 4731,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/ui-node-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f00e0043f47f3e1fe767e8c98a4b636dbed1a150",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/video-builder.js",
+   "size": 2888,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/video-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a9c850fc2abcf34bf69df82d2f7413a1605d7d04",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/web-view-builder.js",
+   "size": 1805,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/builders/web-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ee4809bbd25b0100c3d46dedaae76bdcf6182d15",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-list-view-item.js",
+   "size": 576,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-list-view-item.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fb7eff91bc86b1583e7e4128e248182fd98eb127",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-panel.js",
+   "size": 333,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-panel.js"
+  },
+  {
+   "compression": 8,
+   "hash": "23dabb4c69ed078ba81a0bd0c91b2b9c353555d8",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-scroll-bar.js",
+   "size": 391,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/mxs-scroll-bar.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a930e11441b6cbbe0a76f92c0bebe52876055677",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/array-property.js",
+   "size": 475,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/array-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e1f3355d913ed6394724133913bc16246e51133d",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/class-property.js",
+   "size": 544,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/class-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0f2f7e7bfa6ff7e62adb649d11d365adc1e80fd7",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/enum-property.js",
+   "size": 644,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/enum-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5c2a35932b35d0afadbb20d423ae37b4bc7d55f9",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/primitive-type-property.js",
+   "size": 488,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/primitive-type-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8e0ee46826490b47a046f1e63bb7a9ff0ebe1e77",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/property-descriptor.js",
+   "size": 2655,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/property-descriptor.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6d3edf910e049177c216e4b5236894d09c9ddaed",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/text-children-property.js",
+   "size": 1037,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/elements/properties/text-children-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "13d4d003910d4cb80f28e3c25ffdc59fdc2a7a40",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/mxs-landscape-app.js",
+   "size": 2186,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/mxs-landscape-app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d9b9ed8af1a817e9b87c0f97708b707530e80d44",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/platform-factory.js",
+   "size": 11187,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/platform-factory.js"
+  },
+  {
+   "compression": 8,
+   "hash": "51ebd14bcc4047e1840051f99358866b79437e39",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/advance-direction.js",
+   "size": 527,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/advance-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "00457c9589bbdb2e176f1b8b44ee782fd32c7f4b",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/alignment.js",
+   "size": 672,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/alignment.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3ce4977f9d46e84bbfd03e46ab37ddf6ef10bda3",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/cursor-edge-scroll-mode.js",
+   "size": 399,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/cursor-edge-scroll-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c4e0385095044b5b83f6ac9e63b8de3e99679ec4",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/cursor-hover-state.js",
+   "size": 1079,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/cursor-hover-state.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6ef08f47abc051ad7383c7ebd52b6ebb6b732f10",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/date-format.js",
+   "size": 2111,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/date-format.js"
+  },
+  {
+   "compression": 8,
+   "hash": "913acac6d9072582ba6896ce16bf65bf7a526f25",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/dialog-layout.js",
+   "size": 350,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/dialog-layout.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dae012449f492007bc73763df0ae6542dfcd8969",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/dialog-type.js",
+   "size": 477,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/dialog-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "08f4132400f4a7e37d2d390f65b411e8c55d82d3",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/eclipse-button-type.js",
+   "size": 492,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/eclipse-button-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1b3942aa7bd3c2507c5a5d7b2c98dbdabe4dc241",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/eclipse-label-type.js",
+   "size": 826,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/eclipse-label-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a662484cab6bfa3b4eeb6e1e58b9cfaead7c037d",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/flow-direction.js",
+   "size": 436,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/flow-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e0961a9ab38f1b4b17588326b2d50cbb75c464a4",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/focus-request.js",
+   "size": 461,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/focus-request.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4dd8b46ad58e591c632cb27393f9edc0d11b5979",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/font-style.js",
+   "size": 555,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/font-style.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1abdebcddfa9f1a9d67606642d9512eace1112ce",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/gravity-well-snap.js",
+   "size": 532,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/gravity-well-snap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0b4dcb1df8d20a90f6b4949cc30649a9ca26bf78",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/horizontal-text-alignment.js",
+   "size": 500,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/horizontal-text-alignment.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4daff98deca33db09f9c12439dd5a1bc1233652d",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/label-display-mode.js",
+   "size": 370,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/label-display-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "040705b320a01b550956ae316f447abcd9cbbb31",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/loading-spinner-type.js",
+   "size": 423,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/loading-spinner-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1dc572e8aa229bf3cb11add31ba1e535642f75bf",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/orientation.js",
+   "size": 358,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/orientation.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8ead775c5aeaf924b629c9b684d19ef852dd21c9",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/panel-cursor-transition-type.js",
+   "size": 499,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/panel-cursor-transition-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "910bac6f2a400705034707df4b73ea83789ae251",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/panel-edge-constraint-level.js",
+   "size": 622,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/panel-edge-constraint-level.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d8862fb796b7b944531b8f7f64cf410463150ba8",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/portal-icon-size.js",
+   "size": 459,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/portal-icon-size.js"
+  },
+  {
+   "compression": 8,
+   "hash": "01cfa12534e4dd94c14f6bae1e02839d18df1990",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/quality.js",
+   "size": 752,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/quality.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ccce9b7059b2b48a8d90d7acac6021e85904a5ee",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/rendering-layer.js",
+   "size": 677,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/rendering-layer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1d11474ca65d47fcd1d1fa4a26b15f22c25eb7d0",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/scroll-bar-visibility.js",
+   "size": 386,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/scroll-bar-visibility.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f430308ba682cec86f60b67d593d453c5677e078",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/scroll-direction.js",
+   "size": 337,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/scroll-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2a54e5c68742488e41c37c7b01129f5951f684a2",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/shader-type.js",
+   "size": 384,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/shader-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd8f688fb8b00e5107a96948f4c206a937c57c46",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/side.js",
+   "size": 311,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/side.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d58e7b6ffa1d5c502de41f4ad80b4d7fb0623c0f",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/sound-event.js",
+   "size": 2128,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/sound-event.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4de0e832f89aa9e34058d83ff6de76cd8d88bf09",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/system-icons.js",
+   "size": 9758,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/system-icons.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f2524fbb1c4f63b92006f4a49d32b77894ec2d22",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/text-entry-mode.js",
+   "size": 438,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/text-entry-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1009bcfc2892e2645607f7851096d909033757c2",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/time-format.js",
+   "size": 3080,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/time-format.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5b59315ab19100ef61313928af23c5ba6a5d997a",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/time-period.js",
+   "size": 295,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/time-period.js"
+  },
+  {
+   "compression": 8,
+   "hash": "126cace1b0caba11824450e4253c2714a2fdc218",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/toggle-type.js",
+   "size": 353,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/toggle-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7537b4f243d00aa94bcd4febce58371b3cf0a973",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/ui-node-events.js",
+   "size": 2315,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/ui-node-events.js"
+  },
+  {
+   "compression": 8,
+   "hash": "71219d3fc792702b4ab7516dcceb5b737ba0c385",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/types/view-mode.js",
+   "size": 331,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/types/view-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c28a64969ef2e3917acddee4fc6dfdb6718a1e34",
+   "pkgpath": "bin/node_modules/magic-script-components/platform/lumin-runtime/utilities/validator.js",
+   "size": 4221,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/platform/lumin-runtime/utilities/validator.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1f961638011e07ac5c07d252a2e086c9ff3db10f",
+   "pkgpath": "bin/node_modules/magic-script-components/react-magic-script/magic-script-renderer.js",
+   "size": 14092,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/react-magic-script/magic-script-renderer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e08912b502e7509f20059885a12c708f43625ec7",
+   "pkgpath": "bin/node_modules/magic-script-components/react-magic-script/react-magic-script.js",
+   "size": 558,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-components/react-magic-script/react-magic-script.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d344c26a9ceeff8bb40296a577b72a297ff92581",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/assert.js",
+   "size": 211,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/assert.js"
+  },
+  {
+   "compression": 8,
+   "hash": "17fcf50c89bbc080857834fc41cfd821dab9eec7",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/bintools.js",
+   "size": 2796,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/bintools.js"
+  },
+  {
+   "compression": 8,
+   "hash": "729ce87b75d12df4ec5960766b0c183ee596859a",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+   "size": 1708,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "adcd058b16e0ecd4e8be6aea2e44816c8cbd79a6",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+   "size": 8012,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/fetch.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dc94a34430d228a10707fdb96768a3c6a253555d",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs.js",
+   "size": 3682,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fba38a801a253c83f2f4fe6155a3180ead5d425f",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/headers.js",
+   "size": 1410,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/headers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4777029b24142559e1dac0ac3ae0fb5f88492ffe",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/http-codec.js",
+   "size": 8582,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/http-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a463ddb17460e051dfd086de8d70ead0fdea59af",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/mime.js",
+   "size": 5784,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/mime.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7d5ba694234b3f99cfad51776425d456ddd4b659",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+   "size": 800,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5a531a5aea8706254fdf577c0231c1d922023310",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/resolve.js",
+   "size": 859,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/resolve.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c665a011b71fd571aea7703cf3a0a0f96b95343e",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+   "size": 2606,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8211086533b39dd2c8f803af60b208529f5b541",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+   "size": 707,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/tcp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2ca4e16db232d9bdc449fafae0ca9abec0dcae93",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+   "size": 2386,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "548283cb338183bfa90a647a679bc42581d95f92",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/timers.js",
+   "size": 2919,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/timers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba230d3a70e3fe50d3ecd93b66e78cc7109551bc",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+   "size": 2384,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fea9a17f3250cd654ad11d97ab57dc7e79d82f2e",
+   "pkgpath": "bin/node_modules/object-assign/index.js",
+   "size": 2140,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/object-assign/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f225fe5f270cf7d1bfc7fb6707a617f0ddae14ce",
+   "pkgpath": "bin/node_modules/prop-types/checkPropTypes.js",
+   "size": 3717,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/prop-types/checkPropTypes.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ae79af6947e6a6e4a2c4fc361700e793721a3869",
+   "pkgpath": "bin/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+   "size": 366,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/prop-types/lib/ReactPropTypesSecret.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cbcc08fd9bb11ee9df4c27b0574e2f7d8ca85077",
+   "pkgpath": "bin/node_modules/react-reconciler/cjs/react-reconciler.development.js",
+   "size": 471833,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react-reconciler/cjs/react-reconciler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "582abc1c4ff8c573930e2c452ae94744d3828655",
+   "pkgpath": "bin/node_modules/react-reconciler/cjs/react-reconciler.production.min.js",
+   "size": 65923,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react-reconciler/cjs/react-reconciler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c3fc563399abd28a72501b09b97c3654a53aeb48",
+   "pkgpath": "bin/node_modules/react-reconciler/index.js",
+   "size": 590,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react-reconciler/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f5092e2ff9e70542ea2179cd727020dd93c3385a",
+   "pkgpath": "bin/node_modules/react/cjs/react.development.js",
+   "size": 62417,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react/cjs/react.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "89e9d530f77e8cb80464fdc406aefc123a59bb27",
+   "pkgpath": "bin/node_modules/react/cjs/react.production.min.js",
+   "size": 6759,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react/cjs/react.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6dc00fdfbff374abcaf47119b72cade7a66928b3",
+   "pkgpath": "bin/node_modules/react/index.js",
+   "size": 516,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/react/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "adb4538bba3fe61072da25578b89d81cbf5c33d2",
+   "pkgpath": "bin/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+   "size": 10769,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/cjs/scheduler-tracing.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5b9203604c8084c28c7e2eaf394d2f3307e2aeab",
+   "pkgpath": "bin/node_modules/scheduler/cjs/scheduler-tracing.production.min.js",
+   "size": 2068,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/cjs/scheduler-tracing.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9e454760b9cf67412911de9d57717ee36c60090e",
+   "pkgpath": "bin/node_modules/scheduler/cjs/scheduler.development.js",
+   "size": 25582,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/cjs/scheduler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "684fdad292a8a04128a2206d7a3acdf51fad418f",
+   "pkgpath": "bin/node_modules/scheduler/cjs/scheduler.production.min.js",
+   "size": 7308,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/cjs/scheduler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2f24248f32ed3f370000ba41842cc3db20b888aa",
+   "pkgpath": "bin/node_modules/scheduler/index.js",
+   "size": 518,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "40fd896d3e7ca6815dd3fe87d4f3ed869d047719",
+   "pkgpath": "bin/node_modules/scheduler/tracing.js",
+   "size": 546,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/node_modules/scheduler/tracing.js"
+  },
+  {
+   "compression": 8,
+   "hash": "870d8174ecf5228757f06335176cbcd35919901a",
+   "pkgpath": "bin/src/app.js",
+   "size": 2293,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "466641262642ecd46c13fc2cb29aa7c912fdaf53",
+   "pkgpath": "bin/src/components/button.js",
+   "size": 398,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/button.js"
+  },
+  {
+   "compression": 8,
+   "hash": "96a3753309f352b90c1542e12b1b6c60a1dd34ca",
+   "pkgpath": "bin/src/components/model.js",
+   "size": 602,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/model.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0fe18d827ac37e5e50b523e1a64e9ada452f6ebb",
+   "pkgpath": "bin/src/components/slider.js",
+   "size": 598,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/slider.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8332a303d717ff0f31cf7905d241361690114e0",
+   "pkgpath": "bin/src/components/toggle.js",
+   "size": 419,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/toggle.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7f77f1e3e6417154e46062436aafc87053a4f79d",
+   "pkgpath": "bin/src/global-scope.js",
+   "size": 67,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/global-scope.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2fc1883cc06fca1162e0b831c8f0cd0c13367f98",
+   "pkgpath": "bin/src/main.js",
+   "size": 641,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/main.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba040fbe408ec3982120cf3f73f27f5f6613d76d",
+   "pkgpath": "./digest.sha512.signed",
+   "size": 31346,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "8ea61f5d1a551036df04e8da53405f8ff6404337",
+   "pkgpath": "resources/turkey.kmat",
+   "size": 340,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/resources/turkey.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "6b532554d3d09fc38c481dd9b689256ea40b8f47",
+   "pkgpath": "resources/turkey4.fbx",
+   "size": 1189712,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/resources/turkey4.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "324f375aa74ad0b745ea45f511fa413ec440ece4",
+   "pkgpath": "resources/turkey_Normal.png",
+   "size": 5356,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/resources/turkey_Normal.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7e081ed79b4937c8e061bf8270994943190d25e1",
+   "pkgpath": "resources/turkey_Roughness.png",
+   "size": 3178,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/resources/turkey_Roughness.png"
+  },
+  {
+   "compression": 8,
+   "hash": "f32fd403e7479be660292fe777699970c9c2553e",
+   "pkgpath": "resources/turkey_baseColor.png",
+   "size": 144327,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/resources/turkey_baseColor.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7d8fda783e3e2acf91d835d93abc91e82327b79c",
+   "pkgpath": "manifest.xml",
+   "size": 648,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "2e3ca398ab9ae604f77bd093d88da657221814f3",
+     "developer_id": "Magic Leap Internal",
+     "min_api_level": "2"
+    }
+   },
+   "xfrm_hash": "45ee937d1fbd7fdd5ffefcdaa0ca0ae0190e9e84",
+   "xfrm_path": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-cd14268d57b49bff",
+   "xfrm_size": 600
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
