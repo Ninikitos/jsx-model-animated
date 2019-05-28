@@ -16,5 +16,5 @@ import { App } from "./app.js";
 // export default new App(0.5);
 print("main.js");
 mxs.bootstrap(
-  <App animation="Idle" type="landscape" volumeSize={[1, 1, 1]} caption="My App Caption" toggleState={true} />
+  <App animation="Idle" type="landscape" volumeSize={[1, 1, 1]} caption="My App Caption" toggleState={false}/>
 );

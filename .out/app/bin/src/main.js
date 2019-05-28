@@ -15,5 +15,5 @@ mxs.bootstrap(React.createElement(App, {
   type: "landscape",
   volumeSize: [1, 1, 1],
   caption: "My App Caption",
-  toggleState: true
+  toggleState: false
 }));

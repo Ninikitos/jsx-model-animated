@@ -989,9 +989,9 @@
   },
   {
    "compression": 8,
-   "hash": "d236f157e853a64b7c49fc7ab51507f30bcaf53f",
+   "hash": "37269a4933c5ebd64ded1231826ff7ffe90ed5bc",
    "pkgpath": "bin/src/app.js",
-   "size": 2082,
+   "size": 2679,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/app.js"
   },
   {
@@ -1031,16 +1031,16 @@
   },
   {
    "compression": 8,
-   "hash": "df53d90cda32fa00f084da0e39755672052970d7",
+   "hash": "12e90e440b6a45d5e5003c1799eccd7e52747a47",
    "pkgpath": "bin/src/main.js",
-   "size": 659,
+   "size": 660,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/main.js"
   },
   {
    "compression": 8,
-   "hash": "17f9b1697311c692ae86c3d9bbd1d6b6732fc699",
+   "hash": "c19f58e87c6af66dcd3c8f0a1f7941dd478113f4",
    "pkgpath": "./digest.sha512.signed",
-   "size": 31346,
+   "size": 31397,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/digest.sha512.signed"
   },
   {
@@ -1086,23 +1086,23 @@
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated\\manifest.xml",
    "xfrm_flags": {
     "manifest": {
-     "cert_hash": "2e3ca398ab9ae604f77bd093d88da657221814f3",
-     "developer_id": "Magic Leap Internal",
+     "cert_hash": "4daddd1cfbfdb3649855f2ba26538b6234829158",
+     "developer_id": "331f73c2-eea5-4b5c-93c8-e8e473154179",
      "min_api_level": "2"
     }
    },
-   "xfrm_hash": "45ee937d1fbd7fdd5ffefcdaa0ca0ae0190e9e84",
+   "xfrm_hash": "dc80554d1edf6376315261622b0e1a2ea11bc113",
    "xfrm_path": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-cd14268d57b49bff",
-   "xfrm_size": 600
+   "xfrm_size": 617
   }
  ],
  "pkgflags": {
   "signed": {
-   "cert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert"
+   "cert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert"
   },
   "taildata": {
    "debuggable": true,
-   "devcert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert",
+   "devcert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert",
    "sbox": "USER",
    "version": 3
   }

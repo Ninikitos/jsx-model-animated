@@ -1,8 +1,8 @@
 import React from '../node_modules/react/index.js';
 import { Model } from './components/model.js';
-import './components/toggle.js';
-import './components/slider.js';
-import './components/button.js';
+import { Toggle } from './components/toggle.js';
+import { Slider } from './components/slider.js';
+import { Button } from './components/button.js';
 
 class App extends React.Component {
   constructor(props) {
@@ -29,18 +29,26 @@ class App extends React.Component {
       return {
         counter: counter,
         animation: animation,
-        animationPauseState: state.animationPauseState
+        animationPauseState: state.animationPauseState,
+        toggleState: state.toggleState
       };
     });
   }
 
   onToggleChanged(event) {
+    //const toggleState = !this.state.toggleState;
+    // if(this.state.toggleState === true) {
+    //   this.state.toggleState === false;
+    // } else {
+    //   this.state.toggleState === true;
+    // }
     print(event.toString());
     this.setState(state => {
       return {
         counter: state.counter,
         animation: state.animation,
-        animationPauseState: !state.animationPauseState
+        animationPauseState: !state.animationPauseState,
+        toggleState: !state.toggleState
       };
     });
   }
@@ -71,6 +79,13 @@ class App extends React.Component {
     }, React.createElement(Model, {
       animation: this.state.animation,
       animationPauseState: this.state.animationPauseState
+    }), React.createElement(Toggle, {
+      onClick: this.onToggleChanged,
+      on: this.state.toggleState
+    }), React.createElement(Slider, {
+      onSliderChanged: this.onSliderChanged
+    }), React.createElement(Button, {
+      onClick: this.onButtonClick
     }));
   }
 

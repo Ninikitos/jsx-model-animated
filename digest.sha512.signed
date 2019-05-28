@@ -140,15 +140,17 @@ b9bc2de68e60a27f0b9e0e20c85a532c4965b69d9170066d6e27a16ff094c1184c32c8419a4f4bf3
 71dcb68dae6a0cbe1e7d44f71a848d8417ac92b49c91ccce034d56586ccc73039e65134d922c62c9403aa17ba9adc49373fe3efb6661b315b604116f737a824d  bin/node_modules/scheduler/cjs/scheduler.production.min.js
 5eeb5bdcd1a5e0d22ab91d8a5dd7922d0a13179a5cc009c7882783785dbe2c1d0da757041a3d39df3aa27e7e8c8ef4007c7990e22af421410eb6d9ef4b294e57  bin/node_modules/scheduler/index.js
 e5f23c82b178e60f2c11719db2e6e551223b7016ac0265ecd98a9d9ec6258e755f400295d4516cd66cb06f0c139607ea44a44e9bd24829585ffc3c703a627719  bin/node_modules/scheduler/tracing.js
-f3c59579f290927057f2545a882db5453996bc228990af68e558171c7c93f1c0f9cce22841bd6825386265ec5126957bf4bba3eb7b8acc62b4f86ecc17ec63fe  bin/src/app.js
+9e143c8318f5c71bda268ba2544f501e7b99edff08b50cefd848263bfcac081fcedffdc98f34926236403638a3f53e137ed55096f43df7b4a3700b2604595a40  bin/src/app.js
 922d4a25cfe2d773b39055c8710f97330a4aba8df6a85046c6d232f3e68d754df497bf76fc3f1dece453cecf7ee11d6e1c75136ceea79c5cc2160b751228b657  bin/src/components/button.js
 9267b5bce69ada8323e6ea240bcb260fb04b91abe7fbc8c19987ebcd3848676e513cb24c430f22b4d66d4381049d4f09542cde4b8af83396add8c51768fdcaf2  bin/src/components/model.js
 a0e4d6f19b6f48e718ac6d54bd8d042beaaec37f7854011824a88de7d0eb984c50f560cfea6affa36d899f08fa3baaf42462c68aae5e14142c5630d6c44e943a  bin/src/components/slider.js
 3986f747ad604ab0f305f342b2d5d2b379aba2761135cf651de966d4ce85fc1f9ec5d71282180efd152efef40338273745221ccb8e9a2e0b580c433cc747c823  bin/src/components/toggle.js
 ccb59cc4eeb3f4348629a430aded2500d6779cdd3b699c9de853eb3931da970afebdd9bcb2c4c2c737cc8c26ff5c963a0cd19777302812d33e4173d310e340a1  bin/src/global-scope.js
-4f2a23711a614ce63f8e6326f03e06b99d73c50246cbc344af368a7c0d4923ade0a8e387270d8fbd7ce06c98c650bc1be6f75f5f15bf0b812a860a4f97236eed  bin/src/main.js
-#     USER                                                                       TAILDATA0‚>	*†H†÷ ‚/0‚+10	`†He0	*†H†÷1‚0‚0_0R10	UUS10UFlorida10U
-
-Magic Leap10UMagic Leap Internal	 ˆö‚*Ù’‡0	`†He0	*†H†÷ ‚€B§±UcM€B.8]¯¯8v×n{nÕqMi¹äA&³ ço^Œ§³‹Eª“eÚ	ÙbãĞ%[v¢ß˜¤ıM­æ°ÀïÒë
-tÄ$o}-ûIF(ğ¯ı:[S€XL½¾tñV,I1°Á€h¬ç/ó\·ä #ÕE(‡Ş|‡¾–¥Bıİd”õ{İ3îGû$P;Uô0×•'ÛdEŸ
-ha‰!©ÿö25«2€·—VeÃníAiX{ØóËøïµ’©”wFÛÀ3l][|«®76óƒö\Ì„÷°É8ˆ"çnÀÛ.¸½+æÉ"à¿`P_H<}¼%×o[§BBä„^ ÿm2Ö_B½USa—‚o¢Ás–`™àé¼—.V<¯œÚTæ(cçs4¹‰»ƒ6ÒCvÖJÏ°û‡p¼ùáö,q¡‚"¶ÈXİş¤SP.””Æ#L„hMx%BB¦­^·¨P‰óE^Vy “ª         B~Module signature appended~
+f91fc2b9d22185318b32db556b22cfdbd67e34cb893e45b507116fab35765327cfac2bbfbf0a09a77d13fa858d5799472068f07c69e8ee5863c6345952f68c2a  bin/src/main.js
+#     USER                                                                       TAILDATA0‚q	*†H†÷ ‚b0‚^10	`†He0	*†H†÷1‚;0‚70‘0„10	UUS10UFlorida10U
+Plantation10U
+
+Magic Leap10UExternal Developer10UMagic Leap Root Dev,õ"D·ç0±0	`†He0	*†H†÷ ‚€7U04‚7ÏÜó¢ÓSÚ*ù„TÂ)ëÌë1Ò'l¼{g6VÈBR1ÃÏÜ}xæ[¬hÆÄ&§^­´û@›7Á/UáWİ0
+—ÃöÃ1cîë^P €ı¹)º†ñBâİĞo˜ÄQ1“öô$`?»|ØîÅ<»' #Ä†`±p­_6ïLÚÜ%éà
+¥CCxµovBÈZŠ\™œûƒù„Â‚Lx-Ô'±³xìƒ½,JCÌÛtaJ.¤û:zíj¥BÁk'Ã5È~jU¡5÷mGZ€61«Ã®«¥¾Íâ6D±Œ$~Óv—“ŞÓex¾’ª"ŞuI­qoì\±4Å å¡]“ô
+1[_oG]&âå°gbÎ«–©ıõ&(üNÕA_9[ó7øh9tégCœQ¢“`ºéò2T7ó”IîŠİî…Êš3¤—…•:8<\p¦Íex­\¦N]Ò†6À¯… r”ôˆ9#d         u~Module signature appended~
