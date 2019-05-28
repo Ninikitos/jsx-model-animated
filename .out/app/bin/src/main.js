@@ -9,6 +9,7 @@ import { App } from './app.js';
 // there are no other events waking the event loop.
 // export default new App(0.5);
 
+print("main.js");
 mxs.bootstrap(React.createElement(App, {
   animation: "Idle",
   type: "landscape",

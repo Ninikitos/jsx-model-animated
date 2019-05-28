@@ -8,11 +8,12 @@ export class App extends React.Component {
 
   constructor(props) {
     super(props);
-    this.state = { animation: props.animation, counter: 0, toggleState: props.toggleState };
+    this.state = { animation: props.animation, counter: 0, toggleState: props.toggleState, animationPauseState: false };
     this.animations = ["idle", "walking", "spotted"];
     this.onSliderChanged = this.onSliderChanged.bind(this);
     this.onButtonClick = this.onButtonClick.bind(this);
     this.onToggleChanged = this.onToggleChanged.bind(this);
+    this.onUpdate = this.onUpdate.bind(this);
 
   }
 
@@ -22,36 +23,24 @@ export class App extends React.Component {
     this.setState(state => {
       print(counter.toString());
       print(animation);
-      return { counter: counter, animation: animation };
-
+      return { counter: counter, animation: animation, animationPauseState: state.animationPauseState };
     });
-
   }
 
   onToggleChanged(event) {
-
-    //const toggleState = this.toggleState;
-
     print(event.toString());
-    // this.setState(state => {
-
-    //   return { toggleState: toggleState };
-    // });
+    this.setState(state => {
+      return { counter: state.counter, animation: state.animation, animationPauseState: !state.animationPauseState };
+    });
   }
 
-  // const toggle = this.addToggle([-0.25, -0.25, 0], 'Pause');
-  // toggle.onActivateSub((event) => {
-  //   model.setAnimationPauseState(toggle.getOn());
-  // })
-
   onSliderChanged(event) {
-    const sliderValue = this.state.sliderValue;
     print(event.toString());
     print(JSON.stringify(event.getUiNode()));
-    // this.setState(state => {
-    //   print(sliderValue.toString());
-    //   return { sliderValue };
-    // });
+    this.setState(state => {
+      print(sliderValue.toString());
+      return { sliderValue };
+    });
     print(JSON.stringify(event.getUiNode().getValue()));
   }
 
@@ -60,13 +49,18 @@ export class App extends React.Component {
   //   model.setAnimationPlaybackSpeed(slider.getValue());
   // });
 
+  onUpdate(delta) {
+    print(delta.toString());
+  }
+
   render() {
     return (
+
       <view name="main-view">
-        <Model animation={this.state.animation}></Model>
-        <Toggle onClick={this.onToggleChanged} on={this.state.toggleState}></Toggle>
+        <Model animation={this.state.animation} animationPauseState={this.state.animationPauseState}></Model>
+        {/* <Toggle onClick={this.onToggleChanged} on={this.state.toggleState}></Toggle>
         <Slider onSliderChanged={this.onSliderChanged}></Slider>
-        <Button onClick={this.onButtonClick}></Button>
+        <Button onClick={this.onButtonClick}></Button> */}
       </view >
     );
   }

@@ -989,9 +989,9 @@
   },
   {
    "compression": 8,
-   "hash": "870d8174ecf5228757f06335176cbcd35919901a",
+   "hash": "d236f157e853a64b7c49fc7ab51507f30bcaf53f",
    "pkgpath": "bin/src/app.js",
-   "size": 2293,
+   "size": 2082,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/app.js"
   },
   {
@@ -1003,9 +1003,9 @@
   },
   {
    "compression": 8,
-   "hash": "96a3753309f352b90c1542e12b1b6c60a1dd34ca",
+   "hash": "68254d4202534d3f0dd05e84c51322251b9a6201",
    "pkgpath": "bin/src/components/model.js",
-   "size": 602,
+   "size": 661,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/model.js"
   },
   {
@@ -1031,14 +1031,14 @@
   },
   {
    "compression": 8,
-   "hash": "2fc1883cc06fca1162e0b831c8f0cd0c13367f98",
+   "hash": "df53d90cda32fa00f084da0e39755672052970d7",
    "pkgpath": "bin/src/main.js",
-   "size": 641,
+   "size": 659,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/main.js"
   },
   {
    "compression": 8,
-   "hash": "ba040fbe408ec3982120cf3f73f27f5f6613d76d",
+   "hash": "17f9b1697311c692ae86c3d9bbd1d6b6732fc699",
    "pkgpath": "./digest.sha512.signed",
    "size": 31346,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/digest.sha512.signed"

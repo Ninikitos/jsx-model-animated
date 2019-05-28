@@ -17,7 +17,8 @@ class Model extends React.Component {
       modelPath: 'resources/turkey4.fbx',
       materialPath: 'resources/turkey.kmat',
       texturePath: 'resources/turkey_baseColor.png',
-      textureName: 'turkey_material'
+      textureName: 'turkey_material',
+      animationPauseState: this.props.animationPauseState
     });
   }
 

@@ -19,6 +19,7 @@ export class Model extends React.Component {
         materialPath={'resources/turkey.kmat'}
         texturePath={'resources/turkey_baseColor.png'}
         textureName={'turkey_material'}
+        animationPauseState={this.props.animationPauseState}
       ></model>
     );
   }
