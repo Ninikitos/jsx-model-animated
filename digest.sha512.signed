@@ -140,17 +140,15 @@ b9bc2de68e60a27f0b9e0e20c85a532c4965b69d9170066d6e27a16ff094c1184c32c8419a4f4bf3
 71dcb68dae6a0cbe1e7d44f71a848d8417ac92b49c91ccce034d56586ccc73039e65134d922c62c9403aa17ba9adc49373fe3efb6661b315b604116f737a824d  bin/node_modules/scheduler/cjs/scheduler.production.min.js
 5eeb5bdcd1a5e0d22ab91d8a5dd7922d0a13179a5cc009c7882783785dbe2c1d0da757041a3d39df3aa27e7e8c8ef4007c7990e22af421410eb6d9ef4b294e57  bin/node_modules/scheduler/index.js
 e5f23c82b178e60f2c11719db2e6e551223b7016ac0265ecd98a9d9ec6258e755f400295d4516cd66cb06f0c139607ea44a44e9bd24829585ffc3c703a627719  bin/node_modules/scheduler/tracing.js
-9e143c8318f5c71bda268ba2544f501e7b99edff08b50cefd848263bfcac081fcedffdc98f34926236403638a3f53e137ed55096f43df7b4a3700b2604595a40  bin/src/app.js
+2cd161572c5e8206e88dcc299adcd23dbc6d429002a7b6c60c61e60381af6d18f5bc055d920ffd22c11c70aa3db9dddefd1527881d203f83eb556f2adcf672ef  bin/src/app.js
 922d4a25cfe2d773b39055c8710f97330a4aba8df6a85046c6d232f3e68d754df497bf76fc3f1dece453cecf7ee11d6e1c75136ceea79c5cc2160b751228b657  bin/src/components/button.js
-9267b5bce69ada8323e6ea240bcb260fb04b91abe7fbc8c19987ebcd3848676e513cb24c430f22b4d66d4381049d4f09542cde4b8af83396add8c51768fdcaf2  bin/src/components/model.js
-a0e4d6f19b6f48e718ac6d54bd8d042beaaec37f7854011824a88de7d0eb984c50f560cfea6affa36d899f08fa3baaf42462c68aae5e14142c5630d6c44e943a  bin/src/components/slider.js
+7e1aeeed91d1d8c801fdddc9c650d43cd7a7527199db86f17224d24e092280941fa7c410e38daec62982f04fa88bfbd839bfce1b5c170c01d0e4ec3cd6828f08  bin/src/components/model.js
+2d72f4ef2a6976f166ed1622e8383152844ac5b9f79537dc6c875964910fca6631c2d3b4b039cb984fb1fc6bed3f5c909828ca285f3386f954b544b688b50b03  bin/src/components/slider.js
 3986f747ad604ab0f305f342b2d5d2b379aba2761135cf651de966d4ce85fc1f9ec5d71282180efd152efef40338273745221ccb8e9a2e0b580c433cc747c823  bin/src/components/toggle.js
 ccb59cc4eeb3f4348629a430aded2500d6779cdd3b699c9de853eb3931da970afebdd9bcb2c4c2c737cc8c26ff5c963a0cd19777302812d33e4173d310e340a1  bin/src/global-scope.js
 f91fc2b9d22185318b32db556b22cfdbd67e34cb893e45b507116fab35765327cfac2bbfbf0a09a77d13fa858d5799472068f07c69e8ee5863c6345952f68c2a  bin/src/main.js
-#     USER                                                                       TAILDATA0Çq	*ÜHÜ˜†Çb0Ç^10	`ÜHe0	*ÜHÜ˜1Ç;0Ç70Åë0ÅÑ10	UUS10UFlorida10U
-Plantation10U
-
-Magic Leap10UExternal Developer10UMagic Leap Root Dev,ı"D∑Á0±0	`ÜHe0	*ÜHÜ˜ ÇÄ7U04Ç7œ‹Û¢”S⁄*˘ÑT¬)ÎÃÎ1“'lº{gç6V»BR1√œ‹}xÊ[¨h∆ƒ&ß^≠¥˚@õû7¡/U·W›0
-ó√ˆ√1cÓÎ^êP Ä˝π)∫ÜÒB‚›–oòƒQ1ìˆÙ$`?ª|ÿÓ≈<ª' #ƒÜù`±p≠_6ÔL⁄‹%È‡
-•CCxµovB»Zä\ôú˚É˘Ñ¬ÇLx-‘'±≥xÏÉΩ,JCÃ€taJ.§˚:zÌj•BÅ¡k'√5»~jU°5˜mGÅZÄ61´√Æ´•æÕ‚6D±å$~ç”vóìﬁ”exæí™"ﬁuI≠qÅoÏ\±4≈ Â°]ìÙ
-1[_oG]&‚Âè∞gbŒ´ñ©˝ı&(¸Nç’A_9[Û7¯h9ÅtÈgCúQ¢ì`∫ÈÚ2T7ÛîIÓä›ÓÖ ö3§óÖï:8<\ép¶Õex≠\¶N]“Ü6¿ØéÖ rîÙà9#d         u~Module signature appended~
+#     USER                                                                       TAILDATA0Ç>	*ÜHÜ˜†Ç/0Ç+10	`ÜHe0	*ÜHÜ˜1Ç0Ç0_0R10	UUS10UFlorida10U
+
+Magic Leap10UMagic Leap Internal	 àˆÇ*Ÿíá0	`ÜHe0	*ÜHÜ˜ ÇÄuÕõ˘@ÄΩC∑Ú÷ŒsÄêÕ„î{JUæ¢ª.∑äêö\JA˜‘ﬁì™ƒ©ª≈ÿ2(¬r‹[/gÒy†ﬁAéÏI{ÈÖ£¶¥¨PÔõh˛ÍSè ±œ™ñ˚\ˇÚ»59cÕæ	ÃP-¯‰
+°qÆG°*à˛Í}d˜‘˜}WeΩeî◊¡˚iˇÚQwÎõ´ì(Ï#‚|ˇËµè'wÒEÂ…í}i.ƒ4”-À[òˆlBÀÆOM"≤◊˙|…HÃaZº¸F ¥h3	°hVıÀA[BﬂEÚÜhºK/∆•KÏ.Ôs8¥É`·G®˜Ü°◊}í|Æ–‚ï9B"z[ÍêóyÜáî\@,≥∞ñ
+à±oá	ãF+Ø≈Ç©¿úl?`é~»aÆ5¯œ÷ÿ¯(›ÿÅS™s˘;À¢ç7µFrà4Ó’›>HyZ1–*9io¬Ö∫áÕˆc≥ /…>'Ñ[›$-q,˛îZé” 8-.∑W’(≠ÙŸÒä#ô¨÷.Ç$í∑         B~Module signature appended~

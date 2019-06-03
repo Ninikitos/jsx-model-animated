@@ -989,9 +989,9 @@
   },
   {
    "compression": 8,
-   "hash": "37269a4933c5ebd64ded1231826ff7ffe90ed5bc",
+   "hash": "a0d6902f9ae375992c38cac565c29db4e7da9a9b",
    "pkgpath": "bin/src/app.js",
-   "size": 2679,
+   "size": 2461,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/app.js"
   },
   {
@@ -1003,16 +1003,16 @@
   },
   {
    "compression": 8,
-   "hash": "68254d4202534d3f0dd05e84c51322251b9a6201",
+   "hash": "7940f7de3a28c092d0587b04fac0e8b494d2de7b",
    "pkgpath": "bin/src/components/model.js",
-   "size": 661,
+   "size": 799,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/model.js"
   },
   {
    "compression": 8,
-   "hash": "0fe18d827ac37e5e50b523e1a64e9ada452f6ebb",
+   "hash": "49ad39a0ffd0a98c829011420c55fd65e452db55",
    "pkgpath": "bin/src/components/slider.js",
-   "size": 598,
+   "size": 599,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/bin/src/components/slider.js"
   },
   {
@@ -1038,9 +1038,9 @@
   },
   {
    "compression": 8,
-   "hash": "c19f58e87c6af66dcd3c8f0a1f7941dd478113f4",
+   "hash": "ad05749d44612a9ba5b0895120878cd9de15b69f",
    "pkgpath": "./digest.sha512.signed",
-   "size": 31397,
+   "size": 31346,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/digest.sha512.signed"
   },
   {
@@ -1086,23 +1086,23 @@
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated\\manifest.xml",
    "xfrm_flags": {
     "manifest": {
-     "cert_hash": "4daddd1cfbfdb3649855f2ba26538b6234829158",
-     "developer_id": "331f73c2-eea5-4b5c-93c8-e8e473154179",
+     "cert_hash": "2e3ca398ab9ae604f77bd093d88da657221814f3",
+     "developer_id": "Magic Leap Internal",
      "min_api_level": "2"
     }
    },
-   "xfrm_hash": "dc80554d1edf6376315261622b0e1a2ea11bc113",
+   "xfrm_hash": "45ee937d1fbd7fdd5ffefcdaa0ca0ae0190e9e84",
    "xfrm_path": "C:/Users/nilin/Desktop/qa_mxs_jsx_model_animated/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-cd14268d57b49bff",
-   "xfrm_size": 617
+   "xfrm_size": 600
   }
  ],
  "pkgflags": {
   "signed": {
-   "cert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert"
+   "cert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert"
   },
   "taildata": {
    "debuggable": true,
-   "devcert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert",
+   "devcert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert",
    "sbox": "USER",
    "version": 3
   }

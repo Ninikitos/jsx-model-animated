@@ -11,7 +11,8 @@ class App extends React.Component {
       animation: props.animation,
       counter: 0,
       toggleState: props.toggleState,
-      animationPauseState: false
+      animationPauseState: false,
+      animationPlaybackSpeed: 0
     };
     this.animations = ["idle", "walking", "spotted"];
     this.onSliderChanged = this.onSliderChanged.bind(this);
@@ -36,17 +37,9 @@ class App extends React.Component {
   }
 
   onToggleChanged(event) {
-    //const toggleState = !this.state.toggleState;
-    // if(this.state.toggleState === true) {
-    //   this.state.toggleState === false;
-    // } else {
-    //   this.state.toggleState === true;
-    // }
     print(event.toString());
     this.setState(state => {
       return {
-        counter: state.counter,
-        animation: state.animation,
         animationPauseState: !state.animationPauseState,
         toggleState: !state.toggleState
       };
@@ -54,15 +47,11 @@ class App extends React.Component {
   }
 
   onSliderChanged(event) {
-    print(event.toString());
-    print(JSON.stringify(event.getUiNode()));
-    this.setState(state => {
-      print(sliderValue.toString());
-      return {
-        sliderValue
-      };
-    });
     print(JSON.stringify(event.getUiNode().getValue()));
+    const speed = event.getUiNode().getValue();
+    this.setState(state => ({
+      animationPlaybackSpeed: speed
+    }));
   } // const slider = this.addSlider([0, -0.25, 0], 0, 100);
   // slider.onSliderChangedSub((event) => {
   //   model.setAnimationPlaybackSpeed(slider.getValue());
@@ -77,8 +66,10 @@ class App extends React.Component {
     return React.createElement("view", {
       name: "main-view"
     }, React.createElement(Model, {
+      name: "turkey-model",
       animation: this.state.animation,
-      animationPauseState: this.state.animationPauseState
+      animationPauseState: this.state.animationPauseState,
+      animationPlaybackSpeed: this.state.animationPlaybackSpeed
     }), React.createElement(Toggle, {
       onClick: this.onToggleChanged,
       on: this.state.toggleState

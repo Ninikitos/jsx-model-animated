@@ -11,11 +11,11 @@ class Slider extends React.Component {
       name: "main-slider"
     }, React.createElement("slider", {
       onSliderChanged: this.props.onSliderChanged,
-      localPosition: [-0.2, 0, 0],
-      height: 0.02,
-      width: 0.25,
+      localPosition: [-0.2, 0, 0] // height={0.02}
+      ,
+      width: 0.5,
       min: 0,
-      max: 100
+      max: 2
     }), React.createElement("text", {
       localPosition: [-0.45, -0.1, 0],
       textSize: 0.05
